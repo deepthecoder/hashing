@@ -1,5 +1,5 @@
 # hashing
-Concept of Hashing- Here the basic concept of Hashing has been explained. The source code for the sae has been provided.
+Concept of Hashing- Here the basic concept of Hashing has been explained. The source code for the same has been provided.
 
 Here the condition for collision has been mentioned and has been taken care off by the method of linear probing.
 
