@@ -7,7 +7,7 @@ struct node
 {
 	  int data;
 	  int key;
-};
+};//declaring a structure
 
 struct node *arr[15];  //Creating an array of pointers
 void insert(int,int);
