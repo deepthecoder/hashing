@@ -20,7 +20,7 @@ void main()
   	fp=fopen("emp.txt","r");
   	while(fscanf(fp,"%d",&empno)!=EOF)   //taking input from a file 
   	{
-	     	key=empno%100;
+	     	key=empno%100;              //creation of a key
 	     	insert(empno,key);
 	  }
   	display();
